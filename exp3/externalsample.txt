@@ -1,0 +1,18 @@
+<html>
+<head>
+<title>external sample</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<h1>top dancers<h2>
+<pid="web"> dance is the hidden language of soul </p>
+<div class="center">
+<img src="/home/itlab/Desktop/dancer.jpg" alt="dance" width="500", height="400">
+</div>
+<h2> given the list of some of the famous dogs</h2>
+<ol>
+<li><a href="https://en.wikipedia.org/wiki/Golden_Retriever">Golden_Retriever</li>
+<li><a href="https://en.wikipedia.org/wiki/Labrador_Retriever">Labrador</li>
+</ol>
+</body>
+</html>

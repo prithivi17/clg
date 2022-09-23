@@ -1,0 +1,38 @@
+<html>
+<head>
+<title>
+  REGISTRATION FORM
+</title>
+</head>
+<body style="background-color:powderblue;" >
+<br>
+<h1><i>student registration</i></h1>
+<form action="/action_page.php" method="get" id="nameform">
+<label for="fname">enter first name:</label>
+<input type="text" id="fname"><br>
+<label for="lname">enter last name:</label>
+<input type="text" id="lname"><br>
+</br>
+<br>
+<h2>hobbies</h2>
+<input type="checkbox" id="r1" name="hob1" value="reading">
+  <label for="r1">reading</label><br>
+  <input type="checkbox" id="e" name="hob2" value="exploring">
+  <label for="e"> exploring</label><br>
+  <input type="checkbox" id="r2" name="hob3" value="racing">
+  <label for="r2"> racing</label>
+</br>
+<br>
+<h3> select your gender</h3>
+<input type="radio" id="f" name="gender" value="female">
+  <label for="f">female</label><br>
+  <input type="radio" id="m" name="gender" value="male">
+  <label for="m"> male</label><br>
+  <input type="radio" id="o" name="gender" value="other">
+  <label for="o">other</label>
+
+</br>
+<button type="submit" form="nameform" value="Submit">Submit</button>
+</form>
+</body>
+</html>
